@@ -24,13 +24,11 @@
 
 
 # Table of Contents
-# Table of Contents
 * [Overview](#overview)
 * [Getting Started](#getting-started)
     * [Prerequisites](#prerequisites)
     * [Installation](#installation)
-    * [Usage](#usage)
-    * [Testing](#testing)
+ 
 
 ## Overview
 Email-detection is a sophisticated tool crafted to identify spam and malicious emails with high accuracy, enhancing your email security infrastructure. It leverages machine learning models to classify emails in real-time, supporting diverse formats through PDF parsing and text preprocessing. The project includes an interactive interface for uploading files or manual input, making it accessible for developers and security teams alike. Designed to integrate seamlessly within broader email filtering systems, Email-detection streamlines the process of managing unwanted messages and automates email workflows.
@@ -68,10 +66,5 @@ Build Email-detection from the source and install dependencies:
    pip install -r requirements.txt
 
 
-### Usage
-  Run the project with:
-  **Using** [Pip](#pip):
-  ```bash
-    python {entrypoint}
 
 
