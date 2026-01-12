@@ -68,14 +68,10 @@ Build Email-detection from the source and install dependencies:
    pip install -r requirements.txt
 
 
-###Usage
+### Usage
   Run the project with:
-  **Using** #pip:
+  **Using** [Pip](#pip):
   ```bash
-  python {entrypoint}
+    python {entrypoint}
 
-###Testing###
-Email-detection uses the {test_framework} test framework. Run the test suite with:
-Using pip:
-Bash
-pytest
+
